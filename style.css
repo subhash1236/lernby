@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fix{
+    scroll-behavior: auto;
+}
+
+
+.logo{
+    padding: 3rem;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.btn{
+    padding:1rem 4rem 1rem 4rem;
+    margin: 2.8rem;
+    border: 2px solid #0072bc;
+    overflow: hidden;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 2rem;
+    
+}
+
+.box2{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5rem 0 0;
+    
+    box-sizing: border-box;
+    scroll-behavior: auto;
+
+    
+}
+.hero1{
+    margin-left: 8rem;
+    margin-top: 8rem;
+    line-height: 3.5rem;
+}
+.hero2{
+    padding: 6rem 0 0 6rem;
+    
+}
+p{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+h2{
+    font-size: 2.8rem;
+}
+span{
+    color: #0072bc;
+}
+button{
+    font-size: 2.3rem;
+    height: 5rem;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    background-color: #edbb52;
+    border: 1px solid #fff;
+    font-weight: 700;
+    box-shadow: 0 4px 4px rgba(0,0,0,.25);
+    margin: 20px 0;
+}
+button:hover{
+    background-color: #0072bc;
+
+}
+.main{
+    padding-top: 50rem;
+    
+}
+.earn{
+    top: 100rem;
+    left: 50%;
+    font-size: 4rem;
+    font-weight: 700;
+    padding-left: 12rem;
+    padding-bottom: 50rem;
+}
+.hero5{
+
+margin-left: 8rem;
+font-size: 5rem;
+padding-right: 30px;
+margin-top: 0.5rem;
+margin-right: 2.5rem;
+display: flex;
+
+}
+.br{
+   
+    border-right: 1px solid;
+    padding-right: 20px;
+
+
+}
+.sec{
+padding:0 8rem;
+
+}
